@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=180&section=header&text=Krishil%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Engineer%20%7C%20Full%20Stack%20JS%20Developer&descSize=18&descAlignY=52"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=180&section=header&text=Krishil%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Engineer%20%7C%20Full%20Stack%20JS%20Developer&descSize=18&descAlignY=52"/>
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=180&section=header&text=Krishil%20Gandhi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Engineer%20%7C%20Full%20Stack%20JS%20Developer&descSize=18&descAlignY=52"/>
-</picture>
+</div>
 
 <div align="center">
   
@@ -56,18 +54,18 @@ I'm a **Senior Software Engineer** with **5+ years of experience** building high
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="60"/>
-        <br/><b>Pat on the Back Award</b>
+        <h2>🏆</h2>
+        <b>Pat on the Back Award</b>
         <br/><sub>2× Recognition for High-Impact Delivery (2023, 2024)</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="60"/>
-        <br/><b>AWS Partner Status</b>
+        <h2>☁️</h2>
+        <b>AWS Partner Status</b>
         <br/><sub>Key Contributor to CloudFront Service Delivery Partner</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/>
-        <br/><b>Team Leadership</b>
+        <h2>👨‍💻</h2>
+        <b>Team Leadership</b>
         <br/><sub>Mentored 10+ Engineers to Success</sub>
       </td>
     </tr>
@@ -310,22 +308,19 @@ I'm a **Senior Software Engineer** with **5+ years of experience** building high
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" width="40"/>
-      <br/>
+      <h2>⚡</h2>
       <b>Production Excellence</b>
       <br/>
       <sub>5+ years of reliable systems</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40"/>
-      <br/>
+      <h2>🚀</h2>
       <b>Feature Ownership</b>
       <br/>
       <sub>End-to-end delivery</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="40"/>
-      <br/>
+      <h2>🌎</h2>
       <b>Scale & Impact</b>
       <br/>
       <sub>High-scale SaaS & IoT</sub>
@@ -378,8 +373,6 @@ I'm a **Senior Software Engineer** with **5+ years of experience** building high
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=100&section=footer"/>
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,30&height=100&section=footer"/>
-</picture>
+</div>
